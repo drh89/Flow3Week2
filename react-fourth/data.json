@@ -1,0 +1,18 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "age": "23",
+      "name": "Dennis Hansen",
+      "email": "drh89@live.com",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "age": "12",
+      "name": "qeqwe",
+      "email": "cus@test3.dk",
+      "gender": "Male"
+    }
+  ]
+}
